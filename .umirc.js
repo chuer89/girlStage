@@ -18,7 +18,6 @@ export default {
       dva: true,
       dynamicImport: { webpackChunkName: true },
       title: 'girlStage',
-      // dll: true,
       hardSource: false,
       // locale: {
       //   enable: true,
