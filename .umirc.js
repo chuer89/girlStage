@@ -16,9 +16,9 @@ export default {
     ['umi-plugin-react', {
       antd: true,
       dva: true,
-      // dynamicImport: { webpackChunkName: true },
+      dynamicImport: { webpackChunkName: true },
       title: 'girlStage',
-      dll: true,
+      // dll: true,
       hardSource: false,
       // locale: {
       //   enable: true,
